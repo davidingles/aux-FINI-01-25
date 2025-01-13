@@ -16,8 +16,12 @@ const Models = [
   // { title: 'antorcha1', url: './antorcha1.glb', miEscala: .5, miPosicion: -0.3 },
   // { title: '1g0004', url: './1g0004.glb', miEscala: .6, miPosicion: .0 },
   {
-    title: 'JAVIER', url: './JAVIER.glb', miEscala: .8
-    , miPosicion: .1
+    title: 'EUROPEO', url: './EUROPEO.glb', miEscala: .2
+    , miPosicion: -.4
+  },
+  {
+    title: 'AMERICANO', url: './AMERICANO.glb', miEscala: .2
+    , miPosicion: -.4
   },
   // { title: 'CESTA1', url: './CESTA1.glb', miEscala: .9, miPosicion: -.3 },
   // { title: 'FRUTOS', url: './FRUTOS.glb', miEscala: 1.3, miPosicion: .2 },
