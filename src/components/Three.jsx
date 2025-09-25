@@ -15,12 +15,12 @@ const Models = [
   // { title: 'antorcha2', url: './antorcha2.glb', miEscala: .5, miPosicion: -0.3 },
   // { title: 'antorcha1', url: './antorcha1.glb', miEscala: .5, miPosicion: -0.3 },
   // { title: '1g0004', url: './1g0004.glb', miEscala: .6, miPosicion: .0 },
+  // {
+  //   title: 'EUROPEO', url: './EUROPEO.glb', miEscala: .2
+  //   , miPosicion: -.4
+  // },
   {
-    title: 'EUROPEO', url: './EUROPEO.glb', miEscala: .2
-    , miPosicion: -.4
-  },
-  {
-    title: 'AMERICANO', url: './AMERICANO.glb', miEscala: .2
+    title: 'AMERICANO1', url: './AMERICANO1.glb', miEscala: .15
     , miPosicion: -.4
   },
   // { title: 'CESTA1', url: './CESTA1.glb', miEscala: .9, miPosicion: -.3 },
